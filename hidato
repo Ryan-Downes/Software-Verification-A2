@@ -1,0 +1,2 @@
+#!/bin/sh
+python hidato_solver.py $1

@@ -1,0 +1,2 @@
+#!/bin/sh
+python grouping_b_solver.py $1
